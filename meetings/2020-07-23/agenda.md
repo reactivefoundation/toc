@@ -14,7 +14,7 @@ Location: Virtual Zoom
      - Ryland Degan
      - Oleh Dokuka
      - Mark Paluch
-   - Definition of Chair
+   - Definition of Chair [Proposed Responsibilities](proposed_chair_responsibilities.md)
    - Election of Chair
    - Review of Mandate from Board [TOC Project Lifecycle](https://github.com/reactivefoundation/foundation/blob/master/meetings/2020-06-25/proposal_toc_project_lifecycle.md)
    - Review of Current Projects
