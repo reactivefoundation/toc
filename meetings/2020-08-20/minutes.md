@@ -5,11 +5,11 @@ Date:     2020-08-20
 Time:     UTC
 
 ## Attendance
- - Board
+Board
   - Ryland Degnan (Chair)
   - Oleh Dokuka (Memeber)
   - James Townley (Member acting as secretary)
- - Notable Guests
+Notable Guests
   - Jonas Bonér (Board Chair)
   - Vaughn Vernon (Board)
   - Alexy Khrabrov (Board)
