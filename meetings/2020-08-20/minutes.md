@@ -14,7 +14,7 @@ Notable Guests
   - Jonas Bonér (Board Chair)
   - Vaughn Vernon (Board)
   - Alexy Khrabrov (Board)
-  - Sergi Egorov (Board)
+  - Sergi Egorov
 
 ## Agenda Items
  1. Review of current projects
