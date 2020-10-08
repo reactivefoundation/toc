@@ -51,7 +51,7 @@ Time: 1500 UTC
 1. Cloudflow Presenation / James Townley (10 minute) / Date TBD
 1. Cloudstate Presenation / James Townley (10 minute) / Date TBD
 
-## Future Items
+## Action Items
 1. Email guests re the Directions Discussion / Ryland Degan / Today
 
 ## Other Notes
