@@ -41,9 +41,9 @@ Time: 1500 UTC
 5. Suggestion that each new project needs a new presentation for larger group
 
 ## Motions
-1. Accept Agenda / James Townley / Mark Paluch / Uniamous / Passed
-1. Accept Minutes / James Townley / Mark Paluch / Uniamous / Passed
-1. End the meeting / James Townely / Mark Paluch / Uniamous / Passed
+1. Accept Agenda / James Townley / Mark Paluch / Unanimous / Passed
+1. Accept Minutes / James Townley / Mark Paluch / Unanimous / Passed
+1. End the meeting / James Townely / Mark Paluch / Unanimous / Passed
 
 ## Future Items
 1. Reactive Streams Presentation (10 minute) / Viktor Klang / Date TBD
