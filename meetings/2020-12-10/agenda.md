@@ -1,6 +1,6 @@
 ## Agenda
 
-Date: Deceeember 10, 2020
+Date: December 10, 2020
 
 Location: Virtual Zoom
 
