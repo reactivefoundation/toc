@@ -14,6 +14,7 @@ Location: Virtual Zoom
       - Cloudstate
  - New Business
    - Creation of Working Groups (next steps implementing the [TOC principles](https://docs.google.com/document/d/1lpcHcu34eIZyKqO2GwEE6VOkCLFIWOP2HcwK90Nj7Ts/edit))
+   - Discuss the best way to make progress between meetings
    - Goals for 2021
    - Blockhound
  - Comments and Announcements
