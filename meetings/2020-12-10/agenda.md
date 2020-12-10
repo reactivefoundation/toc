@@ -15,6 +15,7 @@ Location: Virtual Zoom
  - New Business
    - Creation of Working Groups (next steps implementing the [TOC principles](https://docs.google.com/document/d/1lpcHcu34eIZyKqO2GwEE6VOkCLFIWOP2HcwK90Nj7Ts/edit))
    - Goals for 2021
+   - Blockhound
  - Comments and Announcements
  - Adjournment
 
