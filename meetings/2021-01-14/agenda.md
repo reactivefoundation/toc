@@ -8,12 +8,14 @@ Location: Virtual Zoom
   - Approval of the Agenda
   - Approval of [Minutes from November 12, 2020](https://github.com/reactivefoundation/toc/blob/master/meetings/2020-11-12/minutes.md)
  - Old Business
-   - TBD
+   - Commitee reports
+     - Community and Stewartship
+     - Education and Support
  - New Business
-   - Cloudflow presentation
-   - Blockhound presentation
+   - Conduction of business with unexplained Abstentia of TOC Chair
+   - Blockhound presentation ( 45 minutes )
  - Comments and Announcements
  - Adjournment
 
 ### Next Meeting 
-Febuary  ???, 2021
+January 21, 2021 - Cloudflow presentation
