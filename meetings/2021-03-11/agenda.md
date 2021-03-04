@@ -11,6 +11,7 @@ Location: Virtual Zoom
    - Report from Education / Support
    - Report from Community / Stewardship
    - Additional Working Groups Discussion
+   - Reactive Summit November 2-3 (Tuesday - Wednesday)
  - Old Business
    - Updates from Projects
      - RSocket
