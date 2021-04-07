@@ -12,6 +12,8 @@ Location: Virtual Zoom
    - Report from Community / Stewardship
    - Report from Serverless on Mission
    - Reactive Summit November 2-3 (Tuesday - Wednesday)
+     - CFP Selection committee
+     - Keynote ideas
  - Old Business
    - Updates from Projects
      - RSocket
