@@ -10,7 +10,6 @@ Location: Virtual Zoom
  - New Business
    - Report from Education / Support
    - Report from Community / Stewardship
-   - Report from Serverless on Mission
    - Reactive Summit November 2-3 (Tuesday - Wednesday)
      - CFP Selection committee
      - Keynote ideas
