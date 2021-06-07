@@ -11,7 +11,10 @@ Location: Virtual Zoom
    - Election of new TOC Chair
    - Report from Education / Support
    - Report from Community / Stewardship
-   - Proposal to adapt a Reactive Architecture training course request for feedback (James).
+   - Proposals:
+      - Adapt a Reactive Architecture training course request for feedback
+      - Java 9 Flow vs Reactive Streams Publisher
+      - A proposal for a Reactive Streams bridge to Servlet Non-Blocking I/O and to Standard Java WebSocket API
  - Old Business
    - Updates from Projects
      - RSocket
