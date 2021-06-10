@@ -6,7 +6,7 @@ Location: Virtual Zoom
 
  - Call to Order
  - Approval of the Agenda
- - Approval of [Minutes from April 8, 2021](https://github.com/reactivefoundation/toc/blob/master/meetings/2021-04-8/minutes.md)
+ - Approval of [Minutes from April 8, 2021](https://github.com/reactivefoundation/toc/blob/master/meetings/2021-04-08/minutes.md)
  - New Business
    - Election of new TOC Chair
    - Report from Education / Support
