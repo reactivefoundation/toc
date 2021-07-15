@@ -13,11 +13,11 @@ Location: Virtual Zoom
  - Old Business
    - Review of Reactive Course
    - Updates from Projects
-     - << Add project here if you have an update >>
+     - R2DBC
   - Reactive Summit
   - New Standards
  - Comments and Announcements
  - Adjournment
 
 ### Next Meeting 
-August 12, 2021
+Sepember 9, 2021
